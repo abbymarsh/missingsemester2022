@@ -5,3 +5,6 @@ Created by: Abby
 
 Directories:
 * abby
+* roman
+
+Hello I am Roman and I am adding to this read me.
